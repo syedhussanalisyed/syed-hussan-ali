@@ -3,7 +3,9 @@ void main(){
 
     String name = "Virat Kohli";
     int garsiNo = 18;
+    int win ="unlimmited";
 
     print(name);
     print(garsiNo);
+    print(win);
 }
